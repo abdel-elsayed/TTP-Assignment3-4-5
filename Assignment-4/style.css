@@ -1,0 +1,9 @@
+#right-button #left-button {
+  display: flex;
+  justify-content: center;
+}
+
+.logInForm {
+  border: 5px solid green;
+  padding: 10px 0;
+}
