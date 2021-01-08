@@ -1,6 +1,13 @@
-#right-button #left-button {
+#container {
   display: flex;
   justify-content: center;
+  border: 2px solid purple;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding: 50px;
+  background: lightgrey;
+  box-sizing: border-box;
 }
 
 .logInForm {
